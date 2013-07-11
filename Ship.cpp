@@ -1,5 +1,5 @@
 #include "Ship.h"
-
+// fichero modificado.
 namespace game
 {
 	Ship::Ship()
